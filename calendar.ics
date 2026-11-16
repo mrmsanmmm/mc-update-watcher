@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mc-update-watcher//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:マイクラ新情報（解禁予想）
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:weekly-tuesday@mc-update-watcher
+DTSTAMP:20261117T113000Z
+DTSTART:20261117T113000Z
+DTEND:20261117T163000Z
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:📡 新情報タイム（Java版スナップショット 20:30頃
+ ／統合版プレビュー 23:00頃）
+DESCRIPTION:2025〜2026年の実績: Java版スナップショットはほ
+ ぼ毎週火曜 20:30〜23:00（日本時間）、統合版のベータ/
+ プレビューは火曜 23:00〜翌1:00 に公開。ずれると水曜
+ になる。リリース直前の週はプレリリース/リリース候
+ 補が月・木・金にも出る。
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📡 新情報タイム（Java版スナップショット 20:3
+ 0頃／統合版プレビュー 23:00頃）
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-264-pre1@mc-update-watcher
+DTSTAMP:20261117T113000Z
+DTSTART:20261117T113000Z
+DTEND:20261117T120000Z
+SUMMARY:🔮 Java版 26.4 プレリリース1（ザ・ディープフリ
+ ーズ）［本命］
+DESCRIPTION:対抗: 11/24(火)\n11/3 のスナップショット7でディ
+ ープフリーズの新要素が出そろい、11/10 のスナップシ
+ ョット8は修正中心。去年の冬ドロップ（1.21.11）も最
+ 後のスナップショットの翌週にプレリリース1が出た。
+ プレリリースに入ると新要素は基本的に増えない。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-deepfreeze-announce@mc-update-watcher
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261203
+SUMMARY:🔮 ザ・ディープフリーズの配信日 公式発表［予
+ 想］
+DESCRIPTION:配信日はリリースの1〜2週間前に minecraft.net の
+ 記事や公式SNSで発表されることが多い。発表されたら 
+ Discord に「📢 公式発表」で届く。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-deepfreeze-prep@mc-update-watcher
+DTSTAMP:20261207T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:📝 動画準備: ディープフリーズ解説の撮影ワー
+ ルドと台本を最終確認
+DESCRIPTION:リリース前日。プレビュー/スナップショット
+ で撮った素材を正式版で撮り直す必要があるか確認し
+ ておく。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-deepfreeze-release@mc-update-watcher
+DTSTAMP:20261208T120000Z
+DTSTART:20261208T120000Z
+DTEND:20261208T163000Z
+SUMMARY:🔮 ザ・ディープフリーズ 正式リリース（Java版 2
+ 6.4／統合版 26.70）［本命］
+DESCRIPTION:対抗: 12/1(火)・12/15(火)\n2026年のドロップは 3/24
+ ・6/16・9/15 といずれも火曜に両エディション同日配信
+ 。プレリリース1から正式版まで2〜3週間（26.1・26.3 は2
+ 週間、26.2・1.21.11 は3週間）。去年の冬ドロップは 12/9(
+ 火)。Java版は21時頃、統合版は翌1時頃に来ることが多
+ い。
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔮 ザ・ディープフリーズ 正式リリース（Java
+ 版 26.4／統合版 26.70）［本命］
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027d1-snap1@mc-update-watcher
+DTSTAMP:20261215T113000Z
+DTSTART:20261215T113000Z
+DTEND:20261215T120000Z
+SUMMARY:🔮 2027年ドロップ1 最初のスナップショット（投
+ げディスクなどが初登場の可能性）［予想］
+DESCRIPTION:対抗: 年明け 1/5(火)\n正式リリースの翌週に次
+ のドロップのスナップショット1が出るのが定番（26.3
+ →9/22、1.21.11→12/16）。TwitchCon で 2027年最初のドロップ
+ に投げディスクと統合版のオフハンド拡張が来ると発
+ 表済み。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-holiday@mc-update-watcher
+DTSTAMP:20261219T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270105
+SUMMARY:💤 年末年始: スナップショット・プレビューの
+ お休み期間［予想］
+DESCRIPTION:去年は 12/16 のスナップショットの次が 1/7。こ
+ の期間は新情報が少ないので、まとめ動画や予想動画
+ を出すのに向いている。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-resume@mc-update-watcher
+DTSTAMP:20270105T113000Z
+DTSTART:20270105T113000Z
+DTEND:20270105T120000Z
+SUMMARY:🔮 年明け最初のスナップショット／プレビュー
+ ［予想］
+DESCRIPTION:対抗: 1/6(水)・1/12(火)\n去年は 1/7(水) に再開、
+ 統合版のプレビューは 1/27 から。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-live-2027-03@mc-update-watcher
+DTSTAMP:20270320T170000Z
+DTSTART:20270320T170000Z
+DTEND:20270320T183000Z
+SUMMARY:🔮 Minecraft Live（春）［予想］
+DESCRIPTION:対抗: 3/28(日) 2:00\n2025年は 3/22(土)、2026年は 3/21
+ (土) のいずれも太平洋時間10時。2027年も3月の土曜（3/2
+ 0）なら日本時間 3/21(日) 2:00。開催日は1か月ほど前に
+ 発表されることが多い。次の夏ドロップの新要素が初
+ 公開される場。
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔮 Minecraft Live（春）［予想］
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027d1-release@mc-update-watcher
+DTSTAMP:20270323T120000Z
+DTSTART:20270323T120000Z
+DTEND:20270323T123000Z
+SUMMARY:🔮 2027年ドロップ1 正式リリース［予想］
+DESCRIPTION:対抗: 3/30(火)\n2025年は 3/25、2026年は 3/24 と3月
+ 下旬の火曜。2026年は Minecraft Live の3日後だった。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-aprilfools-2027@mc-update-watcher
+DTSTAMP:20270401T120000Z
+DTSTART:20270401T120000Z
+DTEND:20270401T123000Z
+SUMMARY:🔮 エイプリルフールのスナップショット（Java版
+ ）［毎年恒例］
+DESCRIPTION:毎年4/1に冗談スナップショットが出る（2026年
+ は 4/1 21:13 頃）。ネタ動画を出しやすい日。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027d2-release@mc-update-watcher
+DTSTAMP:20270615T120000Z
+DTSTART:20270615T120000Z
+DTEND:20270615T123000Z
+SUMMARY:🔮 2027年ドロップ2 正式リリース［参考］
+DESCRIPTION:2025年 6/17、2026年 6/16 と6月中旬の火曜。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027d3-release@mc-update-watcher
+DTSTAMP:20270914T120000Z
+DTSTART:20270914T120000Z
+DTEND:20270914T123000Z
+SUMMARY:🔮 2027年ドロップ3 正式リリース［参考］
+DESCRIPTION:2026年は 9/15。2025年は 9/30（ザ・コッパーエイ
+ ジ）。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-live-2027-09@mc-update-watcher
+DTSTAMP:20270925T170000Z
+DTSTART:20270925T170000Z
+DTEND:20270925T183000Z
+SUMMARY:🔮 Minecraft Live（秋）［参考］
+DESCRIPTION:2025年は 9/27(土)、2026年は 9/26(土) の太平洋時間
+ 10時。年末ドロップの初公開と、翌年の大型発表が多
+ い。
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
