@@ -193,4 +193,437 @@ DESCRIPTION:2025年は 9/27(土)、2026年は 9/26(土) の太平洋時間
  い。
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-47787720931213@mc-update-watcher
+DTSTAMP:20260731T084415Z
+DTSTART:20260731T084415Z
+DTEND:20260731T085915Z
+SUMMARY:🎉 Minecraft: Bedrock Edition 26.40（正式リリース）
+DESCRIPTION:統合版 正式リリース\nhttps://feedback.minecraft.net/h
+ c/en-us/articles/47787720931213-Minecraft-Bedrock-Edition-26-40
+URL:https://feedback.minecraft.net/hc/en-us/articles/47787720931213-Minecr
+ aft-Bedrock-Edition-26-40
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-48021584755341@mc-update-watcher
+DTSTAMP:20260810T151747Z
+DTSTART:20260810T151747Z
+DTEND:20260810T153247Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.41/42/43 Hotfix Changelog（公
+ 開）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/48021584755341-Minecraft-Bedrock-Edition-26-41-42-43-Hotfix-Chang
+ elog
+URL:https://feedback.minecraft.net/hc/en-us/articles/48021584755341-Minecr
+ aft-Bedrock-Edition-26-41-42-43-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-48149564061965@mc-update-watcher
+DTSTAMP:20260814T170033Z
+DTSTART:20260814T170033Z
+DTEND:20260814T171533Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.44/45 Hotfix Changelog（公開
+ ）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/48149564061965-Minecraft-Bedrock-Edition-26-44-45-Hotfix-Changelo
+ g
+URL:https://feedback.minecraft.net/hc/en-us/articles/48149564061965-Minecr
+ aft-Bedrock-Edition-26-44-45-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c
+ 4@mc-update-watcher
+DTSTAMP:20260901T112901Z
+DTSTART:20260901T112901Z
+DTEND:20260901T114401Z
+SUMMARY:📌 Minecraft 26.3 Pre-Release 1（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-pre-release-1
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-2d614235aefd68fb1cdc8202d674f3d2717c80efdeb73f5364e63482b874fb9
+ c@mc-update-watcher
+DTSTAMP:20260904T115452Z
+DTSTART:20260904T115452Z
+DTEND:20260904T120952Z
+SUMMARY:📌 Minecraft 26.3 Pre-Release 2（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-pre-release-2
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-ce09401e76e06d061699760968d6afa49e1fd852b51c23bc2c4784510092d90
+ 1@mc-update-watcher
+DTSTAMP:20260908T130444Z
+DTSTART:20260908T130444Z
+DTEND:20260908T131944Z
+SUMMARY:📌 Minecraft 26.3 Pre-Release 3（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-pre-release-3
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-48740748263565@mc-update-watcher
+DTSTAMP:20260908T142658Z
+DTSTART:20260908T142658Z
+DTEND:20260908T144158Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.60.22/23（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/48740748263565-Minecraft-Beta-Preview-26-60-22-23
+URL:https://feedback.minecraft.net/hc/en-us/articles/48740748263565-Minecr
+ aft-Beta-Preview-26-60-22-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-b4b6b172445c758986c9814c768719a4ddaf4da3d4ba4a2ea0a13fc04296a46
+ 2@mc-update-watcher
+DTSTAMP:20260910T112825Z
+DTSTART:20260910T112825Z
+DTEND:20260910T114325Z
+SUMMARY:📌 Minecraft 26.3 Release Candidate 1（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-release-candidate-1
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-release-candida
+ te-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-3-release-candidate-2@mc-update-watcher
+DTSTAMP:20260911T103440Z
+DTSTART:20260911T103440Z
+DTEND:20260911T104940Z
+SUMMARY:📌 Minecraft 26.3 Release Candidate 2（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-release-candidate-2
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-release-candida
+ te-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-48826825649933@mc-update-watcher
+DTSTAMP:20260911T134800Z
+DTSTART:20260911T134800Z
+DTEND:20260911T140300Z
+SUMMARY:🎉 Minecraft: Bedrock Edition 26.50 Changelog - Wilderness Bound
+ （正式リリース）
+DESCRIPTION:統合版 正式リリース\nhttps://feedback.minecraft.net/h
+ c/en-us/articles/48826825649933-Minecraft-Bedrock-Edition-26-50-Changelog
+ -Wilderness-Bound
+URL:https://feedback.minecraft.net/hc/en-us/articles/48826825649933-Minecr
+ aft-Bedrock-Edition-26-50-Changelog-Wilderness-Bound
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-3-release-candidate-3@mc-update-watcher
+DTSTAMP:20260914T125838Z
+DTSTART:20260914T125838Z
+DTEND:20260914T131338Z
+SUMMARY:📌 Minecraft 26.3 Release Candidate 3（公開）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-3-release-candidate-3
+URL:https://www.minecraft.net/en-us/article/minecraft-26-3-release-candida
+ te-3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-3@mc-update-watcher
+DTSTAMP:20260915T112302Z
+DTSTART:20260915T112302Z
+DTEND:20260915T113802Z
+SUMMARY:🎉 Minecraft: Java Edition 26.3（正式リリース）
+DESCRIPTION:Java版 正式リリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-java-edition-26-3
+URL:https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-48915928859789@mc-update-watcher
+DTSTAMP:20260915T163328Z
+DTSTART:20260915T163328Z
+DTEND:20260915T164828Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.51 Hotfix Changelog（公開）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/48915928859789-Minecraft-Bedrock-Edition-26-51-Hotfix-Changelog
+URL:https://feedback.minecraft.net/hc/en-us/articles/48915928859789-Minecr
+ aft-Bedrock-Edition-26-51-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-48940953884173@mc-update-watcher
+DTSTAMP:20260916T141914Z
+DTSTART:20260916T141914Z
+DTEND:20260916T143414Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.60.24（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/48940953884173-Minecraft-Beta-Preview-26-60-24
+URL:https://feedback.minecraft.net/hc/en-us/articles/48940953884173-Minecr
+ aft-Beta-Preview-26-60-24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-1@mc-update-watcher
+DTSTAMP:20260922T133853Z
+DTSTART:20260922T133853Z
+DTEND:20260922T135353Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 1（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-1
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49076913532557@mc-update-watcher
+DTSTAMP:20260922T150438Z
+DTSTART:20260922T150438Z
+DTEND:20260922T151938Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.60.28（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49076913532557-Minecraft-Beta-Preview-26-60-28
+URL:https://feedback.minecraft.net/hc/en-us/articles/49076913532557-Minecr
+ aft-Beta-Preview-26-60-28
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-49175370527501@mc-update-watcher
+DTSTAMP:20260925T220512Z
+DTSTART:20260925T220512Z
+DTEND:20260925T222012Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.52 Hotfix Changelog（公開）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/49175370527501-Minecraft-Bedrock-Edition-26-52-Hotfix-Changelog
+URL:https://feedback.minecraft.net/hc/en-us/articles/49175370527501-Minecr
+ aft-Bedrock-Edition-26-52-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-2@mc-update-watcher
+DTSTAMP:20260929T113257Z
+DTSTART:20260929T113257Z
+DTEND:20260929T114757Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 2（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-2
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49274834093453@mc-update-watcher
+DTSTAMP:20260930T151325Z
+DTSTART:20260930T151325Z
+DTEND:20260930T152825Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.60.29（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49274834093453-Minecraft-Beta-Preview-26-60-29
+URL:https://feedback.minecraft.net/hc/en-us/articles/49274834093453-Minecr
+ aft-Beta-Preview-26-60-29
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-8df071b98ac92911ae6caae35feb68506bca66894d16f41797164b9a9c6d182
+ 4@mc-update-watcher
+DTSTAMP:20261006T125426Z
+DTSTART:20261006T125426Z
+DTEND:20261006T130926Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 3（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-3
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49413473578637@mc-update-watcher
+DTSTAMP:20261006T150347Z
+DTSTART:20261006T150347Z
+DTEND:20261006T151847Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.60.30（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49413473578637-Minecraft-Beta-Preview-26-60-30
+URL:https://feedback.minecraft.net/hc/en-us/articles/49413473578637-Minecr
+ aft-Beta-Preview-26-60-30
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-4@mc-update-watcher
+DTSTAMP:20261013T120546Z
+DTSTART:20261013T120546Z
+DTEND:20261013T122046Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 4（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-4
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49576818675597@mc-update-watcher
+DTSTAMP:20261013T140737Z
+DTSTART:20261013T140737Z
+DTEND:20261013T142237Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.70.20（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49576818675597-Minecraft-Beta-Preview-26-70-20
+URL:https://feedback.minecraft.net/hc/en-us/articles/49576818675597-Minecr
+ aft-Beta-Preview-26-70-20
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-5@mc-update-watcher
+DTSTAMP:20261020T121506Z
+DTSTART:20261020T121506Z
+DTEND:20261020T123006Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 5（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-5
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49758922088845@mc-update-watcher
+DTSTAMP:20261020T141518Z
+DTSTART:20261020T141518Z
+DTEND:20261020T143018Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.70.21（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49758922088845-Minecraft-Beta-Preview-26-70-21
+URL:https://feedback.minecraft.net/hc/en-us/articles/49758922088845-Minecr
+ aft-Beta-Preview-26-70-21
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-49852828563853@mc-update-watcher
+DTSTAMP:20261023T145313Z
+DTSTART:20261023T145313Z
+DTEND:20261023T150813Z
+SUMMARY:🎉 Minecraft: Bedrock Edition 26.60 Changelog（正式リリー
+ ス）
+DESCRIPTION:統合版 正式リリース\nhttps://feedback.minecraft.net/h
+ c/en-us/articles/49852828563853-Minecraft-Bedrock-Edition-26-60-Changelog
+URL:https://feedback.minecraft.net/hc/en-us/articles/49852828563853-Minecr
+ aft-Bedrock-Edition-26-60-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-6@mc-update-watcher
+DTSTAMP:20261027T134029Z
+DTSTART:20261027T134029Z
+DTEND:20261027T135529Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 6（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-6
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-49967647452685@mc-update-watcher
+DTSTAMP:20261028T151837Z
+DTSTART:20261028T151837Z
+DTEND:20261028T153337Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.70.22（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/49967647452685-Minecraft-Beta-Preview-26-70-22
+URL:https://feedback.minecraft.net/hc/en-us/articles/49967647452685-Minecr
+ aft-Beta-Preview-26-70-22
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-7@mc-update-watcher
+DTSTAMP:20261103T130856Z
+DTSTART:20261103T130856Z
+DTEND:20261103T132356Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 7（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-7
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-50103892132365@mc-update-watcher
+DTSTAMP:20261103T142932Z
+DTSTART:20261103T142932Z
+DTEND:20261103T144432Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.70.23（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/50103892132365-Minecraft-Beta-Preview-26-70-23
+URL:https://feedback.minecraft.net/hc/en-us/articles/50103892132365-Minecr
+ aft-Beta-Preview-26-70-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-50159598275725@mc-update-watcher
+DTSTAMP:20261105T094331Z
+DTSTART:20261105T094331Z
+DTEND:20261105T095831Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.62 Hotfix Changelog（公開）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/50159598275725-Minecraft-Bedrock-Edition-26-62-Hotfix-Changelog
+URL:https://feedback.minecraft.net/hc/en-us/articles/50159598275725-Minecr
+ aft-Bedrock-Edition-26-62-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-8@mc-update-watcher
+DTSTAMP:20261110T142005Z
+DTSTART:20261110T142005Z
+DTEND:20261110T143505Z
+SUMMARY:📌 Minecraft 26.4 Snapshot 8（公開）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-8
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-8
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-50285693907213@mc-update-watcher
+DTSTAMP:20261110T161115Z
+DTSTART:20261110T161115Z
+DTEND:20261110T162615Z
+SUMMARY:📌 Minecraft Beta & Preview - 26.70.24（公開）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/50285693907213-Minecraft-Beta-Preview-26-70-24
+URL:https://feedback.minecraft.net/hc/en-us/articles/50285693907213-Minecr
+ aft-Beta-Preview-26-70-24
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_release-50306516691853@mc-update-watcher
+DTSTAMP:20261111T083846Z
+DTSTART:20261111T083846Z
+DTEND:20261111T085346Z
+SUMMARY:📌 Minecraft: Bedrock Edition 26.63 Hotfix Changelog（公開）
+DESCRIPTION:統合版 修正版\nhttps://feedback.minecraft.net/hc/en-us/a
+ rticles/50306516691853-Minecraft-Bedrock-Edition-26-63-Hotfix-Changelog
+URL:https://feedback.minecraft.net/hc/en-us/articles/50306516691853-Minecr
+ aft-Bedrock-Edition-26-63-Hotfix-Changelog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-news-https://www.minecraft.net/en-us/article/twitchcon-gamedrop-feat
+ ures@mc-update-watcher
+DTSTAMP:20261114T230200Z
+DTSTART:20261114T230200Z
+DTEND:20261114T231700Z
+SUMMARY:📢 TwitchCon reveals the first game drop features of 2027（公
+ 式発表）
+DESCRIPTION:公式記事\nhttps://www.minecraft.net/en-us/article/twitchco
+ n-gamedrop-features
+URL:https://www.minecraft.net/en-us/article/twitchcon-gamedrop-features
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:h-news-https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name
+ @mc-update-watcher
+DTSTAMP:20261115T230000Z
+DTSTART:20261115T230000Z
+DTEND:20261115T231500Z
+SUMMARY:📢 Our coldest drop has an even cooler name（公式発表）
+DESCRIPTION:公式記事\nhttps://www.minecraft.net/en-us/article/twitchco
+ n-gamedrop-name
+URL:https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

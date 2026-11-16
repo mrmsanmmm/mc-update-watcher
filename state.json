@@ -1,0 +1,391 @@
+{
+ "seen": {
+  "java": [
+   "26-4-snapshot-8",
+   "26-4-snapshot-7",
+   "26-4-snapshot-6",
+   "26-4-snapshot-5",
+   "26-4-snapshot-4",
+   "8df071b98ac92911ae6caae35feb68506bca66894d16f41797164b9a9c6d1824",
+   "26-4-snapshot-2",
+   "26-4-snapshot-1",
+   "26-3",
+   "26-3-release-candidate-3",
+   "26-3-release-candidate-2",
+   "b4b6b172445c758986c9814c768719a4ddaf4da3d4ba4a2ea0a13fc04296a462",
+   "ce09401e76e06d061699760968d6afa49e1fd852b51c23bc2c4784510092d901",
+   "2d614235aefd68fb1cdc8202d674f3d2717c80efdeb73f5364e63482b874fb9c",
+   "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4"
+  ],
+  "bedrock_beta": [
+   "50285693907213",
+   "50103892132365",
+   "49967647452685",
+   "49758922088845",
+   "49576818675597",
+   "49413473578637",
+   "49274834093453",
+   "49076913532557",
+   "48940953884173",
+   "48740748263565"
+  ],
+  "bedrock_release": [
+   "50306516691853",
+   "50159598275725",
+   "49852828563853",
+   "49175370527501",
+   "48915928859789",
+   "48826825649933",
+   "48149564061965",
+   "48021584755341",
+   "47787720931213"
+  ],
+  "news": [
+   "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name",
+   "https://www.minecraft.net/en-us/article/the-humblers-awaken",
+   "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-features",
+   "https://www.minecraft.net/en-us/article/parents--guide-minecraft",
+   "https://www.minecraft.net/en-us/article/marketplace-spotlight-sound-effects",
+   "https://www.minecraft.net/en-us/article/twitchcon-watch-time-quest",
+   "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-8",
+   "https://www.minecraft.net/en-us/article/introducing-realms-pro",
+   "https://www.minecraft.net/en-us/article/lets-play-decocraft",
+   "https://www.minecraft.net/en-us/article/marketplace-content-november-2026"
+  ]
+ },
+ "history": [
+  {
+   "source": "bedrock_release",
+   "id": "47787720931213",
+   "title": "Minecraft: Bedrock Edition 26.40",
+   "date": "2026-07-31T08:44:15Z",
+   "kind": "統合版 正式リリース",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/47787720931213-Minecraft-Bedrock-Edition-26-40",
+   "verdict": "release"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "48021584755341",
+   "title": "Minecraft: Bedrock Edition 26.41/42/43 Hotfix Changelog",
+   "date": "2026-08-10T15:17:47Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48021584755341-Minecraft-Bedrock-Edition-26-41-42-43-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "48149564061965",
+   "title": "Minecraft: Bedrock Edition 26.44/45 Hotfix Changelog",
+   "date": "2026-08-14T17:00:33Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48149564061965-Minecraft-Bedrock-Edition-26-44-45-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4",
+   "title": "Minecraft 26.3 Pre-Release 1",
+   "date": "2026-09-01T11:29:01Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-1",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "2d614235aefd68fb1cdc8202d674f3d2717c80efdeb73f5364e63482b874fb9c",
+   "title": "Minecraft 26.3 Pre-Release 2",
+   "date": "2026-09-04T11:54:52Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-2",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "ce09401e76e06d061699760968d6afa49e1fd852b51c23bc2c4784510092d901",
+   "title": "Minecraft 26.3 Pre-Release 3",
+   "date": "2026-09-08T13:04:44Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-3",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "48740748263565",
+   "title": "Minecraft Beta & Preview - 26.60.22/23",
+   "date": "2026-09-08T14:26:58Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48740748263565-Minecraft-Beta-Preview-26-60-22-23",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "b4b6b172445c758986c9814c768719a4ddaf4da3d4ba4a2ea0a13fc04296a462",
+   "title": "Minecraft 26.3 Release Candidate 1",
+   "date": "2026-09-10T11:28:25Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-release-candidate-1",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-3-release-candidate-2",
+   "title": "Minecraft 26.3 Release Candidate 2",
+   "date": "2026-09-11T10:34:40Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-release-candidate-2",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "48826825649933",
+   "title": "Minecraft: Bedrock Edition 26.50 Changelog - Wilderness Bound",
+   "date": "2026-09-11T13:48:00Z",
+   "kind": "統合版 正式リリース",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48826825649933-Minecraft-Bedrock-Edition-26-50-Changelog-Wilderness-Bound",
+   "verdict": "release"
+  },
+  {
+   "source": "java",
+   "id": "26-3-release-candidate-3",
+   "title": "Minecraft 26.3 Release Candidate 3",
+   "date": "2026-09-14T12:58:38Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-release-candidate-3",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-3",
+   "title": "Minecraft: Java Edition 26.3",
+   "date": "2026-09-15T11:23:02Z",
+   "kind": "Java版 正式リリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3",
+   "verdict": "release"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "48915928859789",
+   "title": "Minecraft: Bedrock Edition 26.51 Hotfix Changelog",
+   "date": "2026-09-15T16:33:28Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48915928859789-Minecraft-Bedrock-Edition-26-51-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "48940953884173",
+   "title": "Minecraft Beta & Preview - 26.60.24",
+   "date": "2026-09-16T14:19:14Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/48940953884173-Minecraft-Beta-Preview-26-60-24",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-1",
+   "title": "Minecraft 26.4 Snapshot 1",
+   "date": "2026-09-22T13:38:53Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-1",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49076913532557",
+   "title": "Minecraft Beta & Preview - 26.60.28",
+   "date": "2026-09-22T15:04:38Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49076913532557-Minecraft-Beta-Preview-26-60-28",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "49175370527501",
+   "title": "Minecraft: Bedrock Edition 26.52 Hotfix Changelog",
+   "date": "2026-09-25T22:05:12Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49175370527501-Minecraft-Bedrock-Edition-26-52-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-2",
+   "title": "Minecraft 26.4 Snapshot 2",
+   "date": "2026-09-29T11:32:57Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-2",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49274834093453",
+   "title": "Minecraft Beta & Preview - 26.60.29",
+   "date": "2026-09-30T15:13:25Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49274834093453-Minecraft-Beta-Preview-26-60-29",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "8df071b98ac92911ae6caae35feb68506bca66894d16f41797164b9a9c6d1824",
+   "title": "Minecraft 26.4 Snapshot 3",
+   "date": "2026-10-06T12:54:26Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-3",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49413473578637",
+   "title": "Minecraft Beta & Preview - 26.60.30",
+   "date": "2026-10-06T15:03:47Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49413473578637-Minecraft-Beta-Preview-26-60-30",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-4",
+   "title": "Minecraft 26.4 Snapshot 4",
+   "date": "2026-10-13T12:05:46Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-4",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49576818675597",
+   "title": "Minecraft Beta & Preview - 26.70.20",
+   "date": "2026-10-13T14:07:37Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49576818675597-Minecraft-Beta-Preview-26-70-20",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-5",
+   "title": "Minecraft 26.4 Snapshot 5",
+   "date": "2026-10-20T12:15:06Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-5",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49758922088845",
+   "title": "Minecraft Beta & Preview - 26.70.21",
+   "date": "2026-10-20T14:15:18Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49758922088845-Minecraft-Beta-Preview-26-70-21",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "49852828563853",
+   "title": "Minecraft: Bedrock Edition 26.60 Changelog",
+   "date": "2026-10-23T14:53:13Z",
+   "kind": "統合版 正式リリース",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49852828563853-Minecraft-Bedrock-Edition-26-60-Changelog",
+   "verdict": "release"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-6",
+   "title": "Minecraft 26.4 Snapshot 6",
+   "date": "2026-10-27T13:40:29Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-6",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "49967647452685",
+   "title": "Minecraft Beta & Preview - 26.70.22",
+   "date": "2026-10-28T15:18:37Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/49967647452685-Minecraft-Beta-Preview-26-70-22",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-7",
+   "title": "Minecraft 26.4 Snapshot 7",
+   "date": "2026-11-03T13:08:56Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-7",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "50103892132365",
+   "title": "Minecraft Beta & Preview - 26.70.23",
+   "date": "2026-11-03T14:29:32Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/50103892132365-Minecraft-Beta-Preview-26-70-23",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "50159598275725",
+   "title": "Minecraft: Bedrock Edition 26.62 Hotfix Changelog",
+   "date": "2026-11-05T09:43:31Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/50159598275725-Minecraft-Bedrock-Edition-26-62-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-8",
+   "title": "Minecraft 26.4 Snapshot 8",
+   "date": "2026-11-10T14:20:05Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-8",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "50285693907213",
+   "title": "Minecraft Beta & Preview - 26.70.24",
+   "date": "2026-11-10T16:11:15Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/50285693907213-Minecraft-Beta-Preview-26-70-24",
+   "verdict": "past"
+  },
+  {
+   "source": "bedrock_release",
+   "id": "50306516691853",
+   "title": "Minecraft: Bedrock Edition 26.63 Hotfix Changelog",
+   "date": "2026-11-11T08:38:46Z",
+   "kind": "統合版 修正版",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/50306516691853-Minecraft-Bedrock-Edition-26-63-Hotfix-Changelog",
+   "verdict": "past"
+  },
+  {
+   "source": "news",
+   "id": "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-features",
+   "title": "TwitchCon reveals the first game drop features of 2027",
+   "date": "2026-11-14T23:02:00Z",
+   "kind": "公式記事",
+   "url": "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-features",
+   "verdict": "major"
+  },
+  {
+   "source": "news",
+   "id": "https://www.minecraft.net/en-us/article/the-humblers-awaken",
+   "title": "The Humblers Awaken",
+   "date": "2026-11-15T19:00:00Z",
+   "kind": "公式記事",
+   "url": "https://www.minecraft.net/en-us/article/the-humblers-awaken",
+   "verdict": "minor"
+  },
+  {
+   "source": "news",
+   "id": "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name",
+   "title": "Our coldest drop has an even cooler name",
+   "date": "2026-11-15T23:00:00Z",
+   "kind": "公式記事",
+   "url": "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name",
+   "verdict": "major"
+  }
+ ]
+}
