@@ -16,7 +16,8 @@
    "ce09401e76e06d061699760968d6afa49e1fd852b51c23bc2c4784510092d901",
    "2d614235aefd68fb1cdc8202d674f3d2717c80efdeb73f5364e63482b874fb9c",
    "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4",
-   "26-4-snapshot-9"
+   "26-4-snapshot-9",
+   "ab4c469ad1328c1949d845ba7c0d0022f7929483988dc89b683b51fbe5e8b341"
   ],
   "bedrock_beta": [
    "50285693907213",
@@ -28,7 +29,8 @@
    "49274834093453",
    "49076913532557",
    "48940953884173",
-   "48740748263565"
+   "48740748263565",
+   "50449951148429"
   ],
   "bedrock_release": [
    "50306516691853",
@@ -396,6 +398,24 @@
    "kind": "Java版 スナップショット",
    "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9",
    "verdict": "new"
+  },
+  {
+   "source": "bedrock_beta",
+   "id": "50449951148429",
+   "title": "Minecraft Beta & Preview - 26.70.26",
+   "date": "2026-11-17T14:18:25Z",
+   "kind": "統合版 ベータ/プレビュー",
+   "url": "https://feedback.minecraft.net/hc/en-us/articles/50449951148429-Minecraft-Beta-Preview-26-70-26",
+   "verdict": "new"
+  },
+  {
+   "source": "java",
+   "id": "ab4c469ad1328c1949d845ba7c0d0022f7929483988dc89b683b51fbe5e8b341",
+   "title": "Minecraft 26.4 Snapshot 10",
+   "date": "2026-11-17T16:02:02Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-10",
+   "verdict": "minor"
   }
  ]
 }

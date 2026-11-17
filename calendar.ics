@@ -637,4 +637,16 @@ DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
 URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:h-bedrock_beta-50449951148429@mc-update-watcher
+DTSTAMP:20261117T141825Z
+DTSTART:20261117T141825Z
+DTEND:20261117T143325Z
+SUMMARY:🆕 Minecraft Beta & Preview - 26.70.26（新要素あり）
+DESCRIPTION:統合版 ベータ/プレビュー\nhttps://feedback.minecraf
+ t.net/hc/en-us/articles/50449951148429-Minecraft-Beta-Preview-26-70-26
+URL:https://feedback.minecraft.net/hc/en-us/articles/50449951148429-Minecr
+ aft-Beta-Preview-26-70-26
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
