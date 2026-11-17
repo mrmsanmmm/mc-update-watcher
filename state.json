@@ -15,7 +15,8 @@
    "b4b6b172445c758986c9814c768719a4ddaf4da3d4ba4a2ea0a13fc04296a462",
    "ce09401e76e06d061699760968d6afa49e1fd852b51c23bc2c4784510092d901",
    "2d614235aefd68fb1cdc8202d674f3d2717c80efdeb73f5364e63482b874fb9c",
-   "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4"
+   "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4",
+   "26-4-snapshot-9"
   ],
   "bedrock_beta": [
    "50285693907213",
@@ -386,6 +387,15 @@
    "kind": "公式記事",
    "url": "https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name",
    "verdict": "major"
+  },
+  {
+   "source": "java",
+   "id": "26-4-snapshot-9",
+   "title": "Minecraft 26.4 Snapshot 9",
+   "date": "2026-11-17T12:58:45Z",
+   "kind": "Java版 スナップショット",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9",
+   "verdict": "new"
   }
  ]
 }

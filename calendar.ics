@@ -626,4 +626,15 @@ DESCRIPTION:公式記事\nhttps://www.minecraft.net/en-us/article/twitchco
 URL:https://www.minecraft.net/en-us/article/twitchcon-gamedrop-name
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-snapshot-9@mc-update-watcher
+DTSTAMP:20261117T125845Z
+DTSTART:20261117T125845Z
+DTEND:20261117T131345Z
+SUMMARY:🆕 Minecraft 26.4 Snapshot 9（新要素あり）
+DESCRIPTION:Java版 スナップショット\nhttps://www.minecraft.net/en
+ -us/article/minecraft-26-4-snapshot-9
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
