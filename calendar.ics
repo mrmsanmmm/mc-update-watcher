@@ -649,4 +649,15 @@ URL:https://feedback.minecraft.net/hc/en-us/articles/50449951148429-Minecr
  aft-Beta-Preview-26-70-26
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:h-java-26-4-pre-release-1@mc-update-watcher
+DTSTAMP:20261124T124831Z
+DTSTART:20261124T124831Z
+DTEND:20261124T130331Z
+SUMMARY:🔄 Minecraft 26.4 Pre-Release 1（仕様変更あり）
+DESCRIPTION:Java版 プレリリース\nhttps://www.minecraft.net/en-us/ar
+ ticle/minecraft-26-4-pre-release-1
+URL:https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-1
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
