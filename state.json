@@ -18,7 +18,8 @@
    "9459bbbb7dd85b60a7c0034f11c032eac19b66a91fe04c799f6c6149c12302c4",
    "26-4-snapshot-9",
    "ab4c469ad1328c1949d845ba7c0d0022f7929483988dc89b683b51fbe5e8b341",
-   "26-4-pre-release-1"
+   "26-4-pre-release-1",
+   "26-4-pre-release-2"
   ],
   "bedrock_beta": [
    "50285693907213",
@@ -430,6 +431,15 @@
    "kind": "Java版 プレリリース",
    "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-1",
    "verdict": "change"
+  },
+  {
+   "source": "java",
+   "id": "26-4-pre-release-2",
+   "title": "Minecraft 26.4 Pre-Release 2",
+   "date": "2026-11-27T10:00:38Z",
+   "kind": "Java版 プレリリース",
+   "url": "https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-2",
+   "verdict": "minor"
   }
  ]
 }
